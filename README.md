@@ -4,14 +4,14 @@ Due to the increased price of new cars and the incapability of customers to buy 
 There is a need for a used car price prediction system to effectively determine the worthiness of the car using a variety of models to assist in decision making.
 
 **Models used** 
-*Linear Regression 
-*Random Forest Regression
-*Ridge Regression
-*Lasso Regression
+* Linear Regression 
+* Random Forest Regression
+* Ridge Regression
+* Lasso Regression
 
 **Dataset Features**
 * public_reference- Unable to get actionable information on this variable
-* reg_code- Unable to get actionable information on this variable
+* reg_code-  way of identifying vehicles
 * mileage- The standard mileage offered by the car company (Lower is usually better)
 * standard_colour- Body paint color of vehicle at time of sale (5-total)
   - **Grey**
